@@ -1,0 +1,11 @@
+BEIJING
+
+Rent	     220
+1 House	    1100
+2 House 	    3300
+3 House 	    8000
+4 House	    9750
+HOTEL	  11500
+
+House Cost = 1500 each
+Hotel Cost = 1500 (after 4 houses)

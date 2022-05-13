@@ -1,0 +1,6 @@
+RAIL ROADS
+
+Rent		250
+2 Rails owned	500
+3 Rails owned           1000
+4 Rails owned           2000

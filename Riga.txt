@@ -1,0 +1,11 @@
+RIGA
+
+Rent	       350
+1 House	     1750
+2 House 	     5000
+3 House 	   11000
+4 House	   13000
+HOTEL	   15000
+
+House Cost = 2000 each
+Hotel Cost = 2000 (after 4 houses)

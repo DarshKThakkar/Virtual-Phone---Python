@@ -1,0 +1,48 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+KINDLY MAKE THE FOLLOWING CHANGES TO RUN THE PROGRAM:-
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1) Create a database named:- project
+2) Create a table:
+
+Code:-      CREATE TABLE bank(LOGIN_ID VARCHAR(40) PRIMARY KEY, PASSWORD VARCHAR(30), BALANCE BIGINT);
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+3) In Acc_SBI.py  kindly change the following in line 59. [ host, user, password ] for python connectivity.
+
+4) In AccInfo_SBI.py  kindly change the following in line 59. [ host, user, password ] for python connectivity.
+
+5) In Add_yono.py  kindly change the following in line 68. [ host, user, password ] for python connectivity.
+
+6 In BAL_yono.py  kindly change the following in line 66. [ host, user, password ] for python connectivity.
+
+7) In Delete_yono.py  kindly change the following in line 58. [ host, user, password ] for python connectivity.
+
+8) In Transaction.py  kindly change the following in line 93. [ host, user, password ] for python connectivity.
+
+9) In Transaction2.py  kindly change the following in line 72. [ host, user, password ] for python connectivity.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+MODULES USED :-
+
+01) tkinter
+02)  PIL
+03)  mysql.connector
+04)  time
+05)  sys
+06)  random
+07)  multiprocessing
+08)  pygame
+09)  cv2
+10)  datetime
+11)  tkinter.ttk
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+TO RUN THE PROJECT, RUN THE FILE NAMED: COMPUTER PROJECT .   (Rest all the other files are linked to one another.)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

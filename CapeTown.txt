@@ -1,0 +1,11 @@
+CAPE TOWN
+
+Rent	     280
+1 House	    1500
+2 House 	    4500
+3 House 	   10000
+4 House	  12000
+HOTEL	  14000
+
+House Cost = 2000 each
+Hotel Cost = 2000 (after 4 houses)

@@ -1,0 +1,11 @@
+BELGRADE
+
+Rent	     260
+1 House	    1300
+2 House 	    3900
+3 House 	    9000
+4 House	  11000
+HOTEL	  12750
+
+House Cost = 2000 each
+Hotel Cost = 2000 (after 4 houses)

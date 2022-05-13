@@ -1,0 +1,11 @@
+BARCELONA
+
+Rent	       60
+1 House	     300
+2 House 	     900
+3 House	   2700
+4 House	   4000
+HOTEL	   5500
+
+House Cost = 500 each
+Hotel Cost = 500 (after 4 houses)

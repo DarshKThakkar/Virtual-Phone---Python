@@ -1,0 +1,11 @@
+ATHENS
+
+Rent	       80
+1 House	     400
+2 House 	   1000
+3 House 	   3000
+4 House	   4500
+HOTEL	   6000
+
+House Cost = 500 each
+Hotel Cost = 500 (after 4 houses)

@@ -1,0 +1,11 @@
+SHANGHAI
+
+Rent	     140
+1 House	     700
+2 House 	    2000
+3 House 	    5500
+4 House	    7500
+HOTEL	    9500
+
+House Cost = 1000 each
+Hotel Cost = 1000 (after 4 houses)
